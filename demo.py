@@ -1,0 +1,5 @@
+print("Hello, World!")  
+print("This is a demo Python script running in a virtual environment.") 
+print(2+6)
+print("The sum of 2 and 6 is:", 2 + 6)  
+print("Goodbye, World!")    
